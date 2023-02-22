@@ -26,3 +26,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## SubHeading
+ 
+ This is a project to learn Ruby on rails.
